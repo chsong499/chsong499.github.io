@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "SONG CHANG HYEON"
+  name             : "송창현"
   avatar           : "/assets/images/song.jpg"
   bio              : "C++, Graphics, etc"
-  location         : "South Korea"
+  location         : "Republic of Korea"
   links:
     - label: "chsong499@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
