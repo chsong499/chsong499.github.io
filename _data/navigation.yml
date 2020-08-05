@@ -3,7 +3,7 @@ main:
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "프로필"
-     url: https://chsong499.github.io/profile/
+     url: /profile/
    - title: "프로젝트"
      url: /project/
    - title: "메모"
